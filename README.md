@@ -1,7 +1,7 @@
 # Kalkulator-z-odwrotn-notacj-polsk-
 Langage utilisée : Python3 et polonais
 
-Programme à utiliser sur VSCode pour un fonctionnement optimal (afin de bien voir le fonctionnement de la dernière ligne du code (le commentaire)
+Programme à utiliser sur VSCode pour un fonctionnement optimal (afin de bien voir le fonctionnement de la dernière ligne du code (le commentaire))
 
 Ceci est un programme représentant une calculatrice en notation polonaise inversée (uniquement l'opération "+").
 Le calcul en polonaise inversée s'éxécute comme ceci :
