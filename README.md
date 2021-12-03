@@ -1,8 +1,8 @@
 # Kalkulator-z-odwrotn-notacj-polsk-
-Languge utilisée : Python3
+Langage utilisée : Python3
 Programme à utiliser sur VSCode pour un fonctionnement optimal
 
-Ceci est un programme représentant une calculatrice en polonaise inversée.
+Ceci est un programme représentant une calculatrice en polonaise inversée (uniquement l'opération "+").
 Le calcul en polonaise inversée s'éxécute comme ceci :
 Nous rentrons ceci :
 10 2 + = 
